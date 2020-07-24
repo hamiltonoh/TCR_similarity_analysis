@@ -1,4 +1,4 @@
-# This script contains demonstrates T cell receptor (TCR) similarity analysis using Levenshtein Distance.
+# This script demonstrates T cell receptor (TCR) similarity analysis using Levenshtein Distance.
 # Of all TCRs in the dataset, we retain clonal TCRs with unambiguous TCR alpha (TCRa) and beta (TCRb) sequences.
 # Downstream analysis of TCR similarity is performed on the full length TCRab sequence.
 # Analysis can also be done with only TCRb, which contains the antigen binding domain. 
