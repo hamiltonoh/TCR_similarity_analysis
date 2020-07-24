@@ -3,6 +3,7 @@
 # Downstream analysis of TCR similarity is performed on the full length TCRab sequence.
 # Analysis can also be done with only TCRb, which contains the antigen binding domain. 
 # For TCRb analysis, retain clonal TCRs with unambiguous beta sequences.
+# This script was developed by Benoit Lehallier.
 
 setwd("/home/hoh3/Hamilton/CSF_scRNA_analysis/proj_CSF_methods")
 
